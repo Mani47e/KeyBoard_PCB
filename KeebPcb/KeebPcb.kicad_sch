@@ -3162,6 +3162,17 @@
 		)
 		(uuid "fddb9c2a-1773-43af-8290-6626f05acd3f")
 	)
+	(hierarchical_label "COL0"
+		(shape input)
+		(at 163.83 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0e774b84-74a0-414a-8b66-1349edca937f")
+	)
 	(hierarchical_label "D+"
 		(shape input)
 		(at 201.93 54.61 0)
@@ -3172,6 +3183,17 @@
 			(justify left)
 		)
 		(uuid "158c9c98-a67a-4a47-9e18-14e6cab11aac")
+	)
+	(hierarchical_label "ROW0"
+		(shape input)
+		(at 163.83 102.87 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "48e197e0-5e5a-4381-ab23-39cf13622e1a")
 	)
 	(hierarchical_label "COL0"
 		(shape input)
@@ -3194,6 +3216,17 @@
 			(justify right)
 		)
 		(uuid "5a1613d5-c37e-47fb-b699-48e64070fa3e")
+	)
+	(hierarchical_label "COL1"
+		(shape input)
+		(at 163.83 64.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "746b6c9f-9f62-47da-953c-abc044de01a7")
 	)
 	(hierarchical_label "COL1"
 		(shape input)
@@ -3249,6 +3282,17 @@
 			(justify left)
 		)
 		(uuid "cadc4bb8-b97a-4755-be6d-24af4493b85c")
+	)
+	(hierarchical_label "ROW1"
+		(shape input)
+		(at 163.83 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "edb4c2f2-b250-4547-9134-7ec6f73376ba")
 	)
 	(symbol
 		(lib_id "Device:C_Small")
